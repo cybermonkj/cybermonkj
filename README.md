@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Anop</h1>
-<h3 align="center">A software engineer with a Security Background</h3>
+<h3 align="center">A software engineer and an Ochestrator for the cloud. A big fan of Continuous Deployment& integration, ps I love to automate things so I don't have to do it again. with a Security Background</h3>
 <p>I generally make teams fun and dynamic. You'd grow to find out I'm a hardworking software developer with a considerable
 number of experiences in building beautifully crafted web and mobile experiences securely both as a freelancer and with
 teams across the globe. I'm proficient with React.js, Python, Laravel. I pay attention to details, organize work, set priorities,
